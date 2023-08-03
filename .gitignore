@@ -1,0 +1,7 @@
+#ignore all log files in the project
+
+.log
+
+#ignore all the filers in temp directory
+
+temp/
